@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+    <TextView
+        android:text="Kraft"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:gravity="center"
+        android:textSize="50dp"
+        android:textColor="#EB2A61"
+        android:textStyle="bold"
+        android:id="@+id/title" />
+    <TextView
+        android:text="사용하실 환경을 선택해 주세요."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:id="@+id/comment"
+        android:textColor="#000000" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/buttonlayout"
+        android:layout_weight="3">
+        <Button
+            android:text="Bluetooth"
+            android:layout_width="213dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/blue" />
+        <Button
+            android:text="Wifi"
+            android:layout_width="213dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/wifi" />
+    </LinearLayout>
+</LinearLayout>

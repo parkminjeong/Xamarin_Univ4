@@ -1,0 +1,371 @@
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\blue.dll
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\blue.pdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\blue.blue.apk
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\blue.blue-Signed.apk
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\blue.csprojResolveAssemblyReference.cache
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\blue.dll
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\blue.pdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\bin\blue.blue.apk
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\res\layout\main.xml
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\res\values\strings.xml
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\res\drawable\icon.png
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\R.cs.flag
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\uploadflags.txt
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\blue.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\Java.Interop.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\Mono.Android.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\mscorlib.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\System.Core.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\System.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\System.Net.Http.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\System.Xml.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\blue.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\System.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\res\layout\device.xml
+c:\users\유혜리\documents\visual studio 2015\Projects\blue\blue\obj\Debug\res\layout\list.xml
+C:\Users\유혜리\Documents\Visual Studio 2015\Projects\blue\blue\obj\Debug\blue.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\blue.dll
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\blue.pdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\blue.blue.apk
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\blue.blue-Signed.apk
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\blue.csprojResolveAssemblyReference.cache
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\blue.dll
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\blue.pdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\bin\blue.blue.apk
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\res\layout\device.xml
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\res\layout\list.xml
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\res\layout\file_main.xml
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\res\layout\file_picker_list_item.xml
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\res\layout\main.xml
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\res\values\strings.xml
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\res\drawable\icon.png
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\res\drawable\file.png
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\res\drawable\folder.png
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\R.cs.flag
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\uploadflags.txt
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\blue.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\Java.Interop.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\Mono.Android.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\mscorlib.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\System.Core.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\System.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\System.Xml.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\blue.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\System.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\cizell\Desktop\blue\blue\obj\Debug\blue.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\blue.dll
+C:\Users\user\Desktop\blue\blue\bin\Debug\blue.pdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\blue.blue.apk
+C:\Users\user\Desktop\blue\blue\bin\Debug\blue.blue-Signed.apk
+C:\Users\user\Desktop\blue\blue\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\user\Desktop\blue\blue\obj\Debug\blue.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\blue\blue\obj\Debug\blue.dll
+C:\Users\user\Desktop\blue\blue\obj\Debug\blue.pdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\bin\blue.blue.apk
+C:\Users\user\Desktop\blue\blue\obj\Debug\res\layout\device.xml
+C:\Users\user\Desktop\blue\blue\obj\Debug\res\layout\list.xml
+C:\Users\user\Desktop\blue\blue\obj\Debug\res\layout\file_main.xml
+C:\Users\user\Desktop\blue\blue\obj\Debug\res\layout\file_picker_list_item.xml
+C:\Users\user\Desktop\blue\blue\obj\Debug\res\layout\main.xml
+C:\Users\user\Desktop\blue\blue\obj\Debug\res\values\strings.xml
+C:\Users\user\Desktop\blue\blue\obj\Debug\res\drawable\icon.png
+C:\Users\user\Desktop\blue\blue\obj\Debug\res\drawable\file.png
+C:\Users\user\Desktop\blue\blue\obj\Debug\res\drawable\folder.png
+C:\Users\user\Desktop\blue\blue\obj\Debug\R.cs.flag
+C:\Users\user\Desktop\blue\blue\obj\Debug\uploadflags.txt
+C:\Users\user\Desktop\blue\blue\bin\Debug\Java.Interop.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\Mono.Android.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\mscorlib.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\System.Core.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\System.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\System.Xml.dll.mdb
+C:\Users\user\Desktop\blue\blue\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\blue.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\System.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\res\layout\key.xml
+C:\Users\user\Desktop\blue\blue\bin\Debug\blue.dll.mdb
+C:\Users\user\Desktop\blue\blue\obj\Debug\blue.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\blue.dll
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\blue.pdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\blue.blue.apk
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\blue.blue-Signed.apk
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\blue.csprojResolveAssemblyReference.cache
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\blue.dll
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\blue.pdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\bin\blue.blue.apk
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\layout\device.xml
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\layout\list.xml
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\layout\file_main.xml
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\layout\file_picker_list_item.xml
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\layout\key.xml
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\layout\main.xml
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\values\strings.xml
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\drawable\icon.png
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\drawable\file.png
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\drawable\folder.png
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\R.cs.flag
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\uploadflags.txt
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\blue.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\Java.Interop.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\Mono.Android.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\mscorlib.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\System.Core.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\System.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\System.Xml.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\blue.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\System.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\res\layout\mouse.xml
+C:\Users\dmsco\Downloads\blue\blue\obj\Debug\blue.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\blue.csprojResolveAssemblyReference.cache
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\blue.dll
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\blue.pdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\blue.dll
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\blue.pdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\blue.blue.apk
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\blue.blue-Signed.apk
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\bin\blue.blue.apk
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\layout\device.xml
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\layout\list.xml
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\layout\file_main.xml
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\layout\file_picker_list_item.xml
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\layout\key.xml
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\layout\mouse.xml
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\layout\main.xml
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\values\strings.xml
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\drawable\icon.png
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\drawable\file.png
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\res\drawable\folder.png
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\R.cs.flag
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\uploadflags.txt
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\blue.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\Java.Interop.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\Mono.Android.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\mscorlib.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\System.Core.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\System.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\System.Xml.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\blue.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\System.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\유혜리\Desktop\blue2\blue\obj\Debug\blue.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\blue.dll
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\blue.pdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\blue.blue.apk
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\blue.blue-Signed.apk
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\blue.csprojResolveAssemblyReference.cache
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\blue.dll
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\blue.pdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\bin\blue.blue.apk
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\layout\device.xml
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\layout\list.xml
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\layout\file_main.xml
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\layout\file_picker_list_item.xml
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\layout\key.xml
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\layout\mouse.xml
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\layout\main.xml
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\values\strings.xml
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\drawable\icon.png
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\drawable\file.png
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\res\drawable\folder.png
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\R.cs.flag
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\uploadflags.txt
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\blue.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\Java.Interop.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\Mono.Android.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\mscorlib.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\System.Core.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\System.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\System.Xml.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\blue.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\System.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\yu\Downloads\Desktop\blue3\blue\obj\Debug\blue.dll.mdb
+C:\Users\cizell\Desktop\제목없는 폴더\blue3\blue\obj\Debug\blue.csprojResolveAssemblyReference.cache
+C:\Users\cizell\Desktop\제목없는 폴더\blue3\blue\obj\Debug\blue.dll
+C:\Users\cizell\Desktop\제목없는 폴더\blue3\blue\obj\Debug\blue.pdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\blue.dll
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\blue.pdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\blue.csprojResolveAssemblyReference.cache
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\blue.dll
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\blue.pdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\layout\device.xml
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\layout\list.xml
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\layout\file_main.xml
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\layout\file_picker_list_item.xml
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\layout\key.xml
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\layout\mouse.xml
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\layout\main.xml
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\values\strings.xml
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\drawable\icon.png
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\drawable\file.png
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\res\drawable\folder.png
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\R.cs.flag
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\uploadflags.txt
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\blue.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\Java.Interop.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\Mono.Android.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\mscorlib.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\System.Core.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\System.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\System.Xml.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\blue.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\System.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\com.blue.apk
+C:\Users\yu\Downloads\압축\blue3\blue\bin\Debug\com.blue-Signed.apk
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\android\bin\com.blue.apk
+C:\Users\yu\Downloads\압축\blue3\blue\obj\Debug\blue.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\layout\device.xml
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\layout\list.xml
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\layout\file_main.xml
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\layout\file_picker_list_item.xml
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\layout\key.xml
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\layout\mouse.xml
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\layout\main.xml
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\values\strings.xml
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\drawable\icon.png
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\drawable\file.png
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\res\drawable\folder.png
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\R.cs.flag
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\uploadflags.txt
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\huhu.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\Java.Interop.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\Mono.Android.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\mscorlib.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\System.Core.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\System.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\System.Xml.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\huhu.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\System.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\huhu00.dll
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\huhu00.pdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\huhu00.dll
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\huhu00.pdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\huhu00.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\ch_iuyom.blue.apk
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\ch_iuyom.blue-Signed.apk
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\bin\ch_iuyom.blue.apk
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\android\assets\huhu00.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\obj\Debug\huhu00.dll.mdb
+C:\Users\user\Downloads\압축1-20161216T170316Z\압축1\blue3\blue\bin\Debug\huhu00.dll.mdb
